@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6v0248/I/v1
+canonical_location: https://kanripo.org/bkk/KR6v0248/I/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 合邑四十人造像記
+  identifiers:
+    krp: KR6v0248
+    cbeta: I01n0039
+    cbeta_old_id: I01n0039
+    authorityid: CA0008174
+    json_key: I0039
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0039.xml
+    old_id: I01n0039
+  edition:
+    short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0248_000-I.yaml, hash: 'sha256:8c2f75c34d38fe9ffd613d23e1beabafab3bca313de63159902b5f40e53f00b1'}
+  - {seq: 1, filename: KR6v0248_001-I.yaml, hash: 'sha256:1f354ed2e734e0fcc8608bb2dbdb2cd2856feb68a0d138bc093f97cab56917e7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0248_000-I.markers.yaml, hash: 'sha256:349d8bea00add5b0b0b7101d8e502ef3525fbf6573e69b3ea53611d71dd15778'}
+  - {seq: 1, role: markers, filename: assets/KR6v0248_001-I.markers.yaml, hash: 'sha256:0b37e79a4502670f632c235e80dc8cf2996522c1cb3a1daa9370f913625078d7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0248_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 242
+  label: 合邑四十人造像記
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0248_I_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 碑陰
+  type: mulu
+  level: 1
+hash: sha256:2d73466b640396fd85b82bb5ea889f6a31b4723671ffc783aa64f24e8e5094ef

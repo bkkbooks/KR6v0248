@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR6v0248/v1
+canonical_location: https://kanripo.org/bkk/KR6v0248/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 合邑四十人造像記
+  identifiers:
+    alt_id:
+    - I01n0039
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0039.xml
+    old_id: I01n0039
+  edition:
+    short: bkk
+editions:
+- short: 佛拓
+  label: 佛拓
+  source_xml_id: wit.orig
+- short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0248_000.yaml, hash: 'sha256:8c2f75c34d38fe9ffd613d23e1beabafab3bca313de63159902b5f40e53f00b1'}
+  - {seq: 1, filename: KR6v0248_001.yaml, hash: 'sha256:ea40600905027556e5795b4f00e9142fb453d1fdb7d65f2bd70c9507c8051f72'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0248_001.markers.yaml, hash: 'sha256:e566c1e0fba661a03891bc637d2f73e6a39d578c0093755daeb599d9f379645e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0248_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 242
+  label: 合邑四十人造像記
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0248_I_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 碑陰
+  type: mulu
+  level: 1
+hash: sha256:5f7bbd9caac1c693d2b8529f3cc826586cc39743b2c87bb05a1fa4af5c882537
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

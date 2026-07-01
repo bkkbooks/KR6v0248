@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0248/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 合邑四十人造像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0039.xml
+    old_id: I01n0039
+hash: sha256:8c2f75c34d38fe9ffd613d23e1beabafab3bca313de63159902b5f40e53f00b1
