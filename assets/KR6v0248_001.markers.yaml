@@ -35,11 +35,9 @@ markers:
   - {type: punctuation, offset: 47, content: 。, id: KR6v0248_I_001-bkkpn5}
   - {type: line-break, offset: 49, content: '', id: KR6v0248_I_001-0096b05, ed: I, 'n': 0096b05}
   - {type: punctuation, offset: 53, content: 。, id: KR6v0248_I_001-bkkpn6}
-  - {type: substitution, offset: 53, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
   - {type: line-break, offset: 58, content: '', id: KR6v0248_I_001-0096b06, ed: I, 'n': 0096b06}
   - {type: variant, offset: 58, length: 1, content: 岸, 佛拓: 󷞭}
   - {type: punctuation, offset: 59, content: 。, id: KR6v0248_I_001-bkkpn7}
-  - {type: substitution, offset: 60, original: 尒, replacement: 爾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0101}}
   - {type: variant, offset: 63, length: 1, content: 率, 佛拓: 󷞮}
   - {type: punctuation, offset: 65, content: 。, id: KR6v0248_I_001-bkkpn8}
   - {type: variant, offset: 65, length: 1, content: 頃, 佛拓: 󷞯}
@@ -64,7 +62,6 @@ markers:
   - {type: punctuation, offset: 113, content: 。, id: KR6v0248_I_001-bkkpn20}
   - {type: punctuation, offset: 117, content: 。, id: KR6v0248_I_001-bkkpn21}
   - {type: variant, offset: 117, length: 1, content: 邊, 佛拓: 𨓉}
-  - {type: substitution, offset: 119, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 121, content: 。, id: KR6v0248_I_001-bkkpn22}
   - {type: line-break, offset: 121, content: '', id: KR6v0248_I_001-0096b13, ed: I, 'n': 0096b13}
   - {type: punctuation, offset: 125, content: 。, id: KR6v0248_I_001-bkkpn23}
@@ -81,8 +78,6 @@ markers:
   - {type: variant, offset: 133, length: 1, content: 那, 佛拓: 𨚗}
   - {type: indent, offset: 137, content: 　, id: KR6v0248_I_001-bkkind1}
   - {type: line-break, offset: 138, content: '', id: KR6v0248_I_001-0096c03, ed: I, 'n': 0096c03}
-  - {type: substitution, offset: 139, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
-  - {type: substitution, offset: 142, original: 迴, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3886}}
   - {type: indent, offset: 143, content: 　, id: KR6v0248_I_001-bkkind2}
   - {type: line-break, offset: 145, content: '', id: KR6v0248_I_001-0096c04, ed: I, 'n': 0096c04}
   - {type: punctuation, offset: 145, content: □, id: KR6v0248_I_001-bkkpn27}
@@ -131,7 +126,6 @@ markers:
   - {type: indent, offset: 207, content: 　, id: KR6v0248_I_001-bkkind22}
   - {type: indent, offset: 207, content: 　, id: KR6v0248_I_001-bkkind23}
   - {type: indent, offset: 210, content: 　, id: KR6v0248_I_001-bkkind24}
-  - {type: substitution, offset: 212, original: 迺, replacement: 乃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0004}}
   - {type: line-break, offset: 213, content: '', id: KR6v0248_I_001-0096c13, ed: I, 'n': 0096c13}
   - {type: indent, offset: 216, content: 　, id: KR6v0248_I_001-bkkind25}
   - {type: indent, offset: 216, content: 　, id: KR6v0248_I_001-bkkind26}
@@ -152,4 +146,4 @@ markers:
   - {type: punctuation, offset: 240, content: □, id: KR6v0248_I_001-bkkpn42}
   - {type: xml-element, offset: 242, content: '', id: pI01p0096c0101_end, name: p, role: close, attrs: {'cb:type': pre, 'xml:id': pI01p0096c0101}}
   back: []
-hash: sha256:e566c1e0fba661a03891bc637d2f73e6a39d578c0093755daeb599d9f379645e
+hash: sha256:99169ef9bd9b29126a1c24a792ed7421ccdc241a85982058f591416cf1c581c6
