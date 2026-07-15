@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0248/v1
 canonical_location: https://kanripo.org/bkk/KR6v0248/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 合邑四十人造像記
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0248_000.yaml, hash: 'sha256:8c2f75c34d38fe9ffd613d23e1beabafab3bca313de63159902b5f40e53f00b1'}
-  - {seq: 1, filename: KR6v0248_001.yaml, hash: 'sha256:1f354ed2e734e0fcc8608bb2dbdb2cd2856feb68a0d138bc093f97cab56917e7'}
+  - {seq: 1, filename: KR6v0248_001.yaml, hash: 'sha256:890ee14a5df7b2f465cf82ce1a19850d24d720245080b8cad5053baf53e79751'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0248_000.markers.yaml, hash: 'sha256:2a2766cfa9ec34378af7c9c91111af130d4f871d7d21f84412f16821abaff2e8'}
-  - {seq: 1, role: markers, filename: assets/KR6v0248_001.markers.yaml, hash: 'sha256:99169ef9bd9b29126a1c24a792ed7421ccdc241a85982058f591416cf1c581c6'}
+  - {seq: 1, role: markers, filename: assets/KR6v0248_001.markers.yaml, hash: 'sha256:57f1990c65c398cc8a3baa144823bb91cc03871fba2b5f8e030280ddde0b7b89'}
 table_of_contents:
 - ref:
     seq: 1
@@ -47,4 +47,7 @@ table_of_contents:
   label: 碑陰
   type: mulu
   level: 1
-hash: sha256:7b7a2043c1e2b2aff8fd09ba03ba62b1cff4c293b279477c7b92027028822732
+hash: sha256:91ac8e456505543f79b469c05cc34bc2b0a8117b3ac9508b6296e58fad35613e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
